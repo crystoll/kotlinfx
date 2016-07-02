@@ -6,5 +6,10 @@ Study Notes on Kotlin + JavaFX
 - Kotlin has nice shortcuts to properties without having to use get/setxxx always
 - Kotlin instantiation happens without new-keyword
 
+//           override handle(currentNanoTime:Number) {
+//           gc.drawImage( nemi, 0.0,0.0 );
+//      }
+
+
 Some tutorial links that were useful:
 http://gamedevelopment.tutsplus.com/tutorials/introduction-to-javafx-for-game-development--cms-23835
